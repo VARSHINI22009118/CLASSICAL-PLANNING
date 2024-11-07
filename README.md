@@ -54,8 +54,8 @@ print(plan)
 # Program
 
 ```
-Name: ABINAYA S
-Register Number: 212222230002
+Name: VARSHINI S A
+Register Number: 212222100059
 ```
 ```
 def is_goal_state(current_state, goal_state):
