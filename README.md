@@ -1,5 +1,10 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+<BR>
 
+<h3>Name:VARSHINI S A </h3>
+<h3>Register Number: 212222100059 </h3>
+
+<BR>
 # Aim
 To solve Implementation of Classical Planning Algorithm using python
 
